@@ -1,4 +1,2 @@
-[{"_id": 0.0, "type": "chocolate", "orderDate": "2020-05-18 14:10:30"}, 
-{"_id": 1.0, "type": "strawberry", "orderDate": "2021-03-20 11:30:05"}, 
-{"_id": 2.0, "type": "vanilla", "orderDate": "2023-02-15 06:31:15"},
- {"_id": 3.0, "type": "vanilla", "orderDate": "2020-05-18 14:10:30"}]
+[{"_id": 1.0, "type": "strawberry", "orderDate": "2021-03-20 11:30:05"}, 
+ {"_id": 0.0, "type": "chocolate", "orderDate": "2020-05-18 14:10:30"}]
